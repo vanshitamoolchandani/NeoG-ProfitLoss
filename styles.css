@@ -60,7 +60,10 @@ body {
     padding: 1rem;
     color: white;
     }
-
+    .social {
+        font-size: 3rem;
+        color: white;
+    }
     .footer{ 
         background-color: var(--primary-color);
         color: white;
